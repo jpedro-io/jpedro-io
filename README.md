@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 
 ## 🚀 About me
 
-* 💻 Currently focused on learning new technologies (HTML/CSS/JavaScript).
+* 💻 Currently focused on learning new technologies (HTML/CSS/JavaScript/Java).
 * 🎓 Information Systems student at IFBA.
 * 📍 I'm from Divisa Alegre - MG
 * 💡 I enjoy solving problems and creating creative solutions.
