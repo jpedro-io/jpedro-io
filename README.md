@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 ## 🚀 About me
 
 * 💻 Currently focused on learning new technologies (HTML/CSS/JavaScript/Java).
-- 🎓 Information Systems student at [IFBA Campus Vitória da Conquista](https://portal.ifba.edu.br/conquista).
+- 🎓 Information Systems student at [IFBA](https://portal.ifba.edu.br/conquista).
 * 📍 I'm from Divisa Alegre - MG
 * 💡 I enjoy solving problems and creating creative solutions.
 
