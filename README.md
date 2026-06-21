@@ -33,7 +33,3 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 - Email: <a href="mailto:joaopedrocampos452@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
