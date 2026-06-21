@@ -30,7 +30,9 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 - LinkedIn: <a href="https://www.linkedin.com/in/joão-pedro-c-rocha-98ab7b3b5" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-- E-mail: joaopedrocampos@gmail.com
+- Email: <a href="mailto:joaopedrocampos452@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 <!--
 **jpedro-io/jpedro-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
