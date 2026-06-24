@@ -1,3 +1,6 @@
+
+---
+
 # Hi there, I'm João Pedro! 👋
 
 Welcome to my GitHub profile! I am passionate about technology and always looking to learn new things.
@@ -28,6 +31,8 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-5B4636.svg?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2.svg?style=for-the-badge&logo=google-gemini&logoColor=white)](https://gemini.google.com/)
 
+---
+
 ### 📫 Connect with me
  <a href="https://www.linkedin.com/in/joão-pedro-c-rocha-98ab7b3b5" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -35,3 +40,5 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joaopedrocampos452@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+---
