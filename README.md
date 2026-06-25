@@ -7,6 +7,8 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 
 ## 🚀 About me
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpedro-io&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro-io&layout=compact&theme=radical&hide_border=true)
 * 💻 Currently focused on learning new technologies (HTML/CSS/JavaScript/Java).
 - 🎓 Information Systems student at [IFBA](https://portal.ifba.edu.br/conquista).
 * 📍 I'm from Divisa Alegre - MG
@@ -46,15 +48,14 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 ---
 
 <details>
-  <summary><b> 📫 Connect with me</b></summary>
- <a href="https://www.linkedin.com/in/joão-pedro-c-rocha-98ab7b3b5" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joaopedrocampos452@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<details>
-
+  <summary><b>📫 Connect with me</b></summary>
+  <br>
+  <a href="https://www.linkedin.com/in/joão-pedro-c-rocha-98ab7b3b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joaopedrocampos452@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</details>
 
 ---
