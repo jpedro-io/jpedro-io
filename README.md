@@ -88,19 +88,6 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 ---
 
 <details>
-  <summary><b>📫 Connect with me</b></summary>
-  <br>
-  <a href="https://www.linkedin.com/in/joão-pedro-c-rocha-98ab7b3b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joaopedrocampos452@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</details>
-
----
-
-<details>
   <summary><b>🚀 Featured Projects</b></summary>
   <br>
 
@@ -120,3 +107,18 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
   *   **Stack:** HTML, CSS, and TypeScript.
 
 </details>
+
+---
+
+<details>
+  <summary><b>📫 Connect with me</b></summary>
+  <br>
+  <a href="https://www.linkedin.com/in/joão-pedro-c-rocha-98ab7b3b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joaopedrocampos452@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</details>
+
+---
