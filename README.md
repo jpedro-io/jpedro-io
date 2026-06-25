@@ -13,20 +13,27 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 * 💡 I enjoy solving problems and creating creative solutions.
 
 ---
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
+### 🔧 languages of programming
+
+[![Java](https://img.shields.io/badge/java-%23ED8B0D.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+### 🔨 tools and frameworks
+
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B0D.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+### 🧑‍💻 assistants and operating systems
 [![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-5B4636.svg?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2.svg?style=for-the-badge&logo=google-gemini&logoColor=white)](https://gemini.google.com/)
