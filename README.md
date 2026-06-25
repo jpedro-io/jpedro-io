@@ -111,6 +111,16 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 ---
 
 <details>
+  <summary><b>🌐 Deployment & Hosting</b></summary>
+  <br>
+  
+  *   **GitHub Pages:** Used for hosting static projects (HTML/CSS/JS) directly from the repository.
+  *   **Vercel:** Used for deploying modern web applications, ensuring high performance and seamless integration.
+</details>
+
+---
+
+<details>
   <summary><b>📫 Connect with me</b></summary>
   <br>
   <a href="https://www.linkedin.com/in/joão-pedro-c-rocha-98ab7b3b5" target="_blank">
