@@ -13,7 +13,9 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 * 💡 I enjoy solving problems and creating creative solutions.
 
 ---
-## 🛠️ Technologies & Tools
+
+<details>
+  <summary><b>🛠️ Technologies & Tools</b></summary>## 
 
 ### 🔧 languages of programming
 
@@ -33,10 +35,13 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-### 🧑‍💻 assistants and operating systems
+### 🧑‍💻 operating systems and assistants 
 [![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-5B4636.svg?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2.svg?style=for-the-badge&logo=google-gemini&logoColor=white)](https://gemini.google.com/)
+[![LMSYS Arena](https://img.shields.io/badge/LMSYS%20Arena-FF6B6B.svg?style=for-the-badge&logo=openai&logoColor=white)](https://chat.lmsys.org/)
+
+</details>
 
 ---
 
