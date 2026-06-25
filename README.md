@@ -48,6 +48,38 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 ---
 
 <details>
+  <summary><b>📚 Learning Progress</b></summary>
+  <br>
+
+  ### 🟢 Intermediate
+  **Java** <br>
+  <code>████████░░░░░░░░░░░░</code> 40%
+
+  <br><br>
+
+  ### 🟡 Beginner
+  **HTML** <br>
+  <code>█████░░░░░░░░░░░░░░░</code> 25%
+
+  <br>
+
+  **CSS** <br>
+  <code>████░░░░░░░░░░░░░░░░</code> 20%
+
+  <br>
+
+  **JavaScript** <br>
+  <code>████░░░░░░░░░░░░░░░░</code> 20%
+
+  <br>
+
+  **TypeScript** <br>
+  <code>████░░░░░░░░░░░░░░░░</code> 20%
+</details>
+
+---
+
+<details>
   <summary><b>📫 Connect with me</b></summary>
   <br>
   <a href="https://www.linkedin.com/in/joão-pedro-c-rocha-98ab7b3b5" target="_blank">
@@ -59,3 +91,24 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 </details>
 
 ---
+
+<details>
+  <summary><b>🚀 Featured Projects</b></summary>
+  <br>
+
+  ### 🖥️ New Tech
+  *   **Description:** My professional brand for technical support and computer maintenance services.
+  *   **Focus:** System optimization, hardware repair, and administrative software solutions.
+  *   **Stack:** HTML, CSS, and JavaScript.
+
+  ### 🎮 CyberNode - Network Invasion
+  *   **Description:** A web-based game project developed for my **Discrete Mathematics II** course.
+  *   **Focus:** Implementing **Graph Theory** algorithms to create network-based game mechanics and puzzles.
+  *   **Stack:** HTML, CSS, and TypeScript.
+
+  ### 🔧 Oficina Luciano Site
+  *   **Description:** A website project developed for my **Administration** course.
+  *   **Focus:** Creating a digital interface and technical solutions to improve service management and workshop operations.
+  *   **Stack:** HTML, CSS, and TypeScript.
+
+</details>
