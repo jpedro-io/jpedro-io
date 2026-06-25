@@ -6,9 +6,6 @@
 Welcome to my GitHub profile! I am passionate about technology and always looking to learn new things.
 
 ## 🚀 About me
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpedro-io&show_icons=true&theme=forest&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro-io&layout=compact&theme=radical&hide_border=true)
 * 💻 Currently focused on learning new technologies (HTML/CSS/JavaScript/Java).
 - 🎓 Information Systems student at [IFBA](https://portal.ifba.edu.br/conquista).
 * 📍 I'm from Divisa Alegre - MG
@@ -16,6 +13,14 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 
 ---
 
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=forest&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=forest&hide_border=true)
+<details>
+
+  ---
+  
 <details>
   <summary><b>🛠️ Technologies & Tools</b></summary>
 
