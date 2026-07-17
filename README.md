@@ -12,8 +12,6 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 * 💡 I enjoy solving problems and creating creative solutions.
 
 ---
-
-<details>
   
 ## 📊 GitHub Stats
 
@@ -22,8 +20,6 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
   | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radial) | 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radial)) |
   
-</details>
-
   ---
   
 <details>
