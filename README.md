@@ -14,7 +14,8 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 ---
 
 <details>
-  <summary><b>📊 GitHub Stats</b></summary>
+  
+## 📊 GitHub Stats
 
 | GitHub Stats | Top Languages |
   | :--- | :--- |
