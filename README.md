@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 
 | GitHub Stats | Top Languages |
   | :--- | :--- |
-  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpedro-io&show_icons=true&theme=tokyonight&hide_border=true) | 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro-io&layout=compact&theme=tokyonight&hide_border=true&card_width=320) |
+  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radial) | 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radial)) |
   
 </details>
 
