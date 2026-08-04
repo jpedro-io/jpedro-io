@@ -13,14 +13,6 @@ Welcome to my GitHub profile! I am passionate about technology and always lookin
 
 ---
   
-## 📊 GitHub Stats
-
-| GitHub Stats | Top Languages |
-  | :--- | :--- |
-  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpedro-io&show_icons=true&theme=radial) | [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro-io&layout=compact&theme=radial) |
-  
-  ---
-  
 <details>
   <summary><b>🛠️ Technologies & Tools</b></summary>
 
