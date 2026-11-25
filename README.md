@@ -1,5 +1,3 @@
----
-
 # Hi there, I'm João Pedro! 👋
 
 <p align="center">
